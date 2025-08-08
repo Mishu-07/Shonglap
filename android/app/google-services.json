@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989936298324",
+    "project_id": "kothopokothon-e7bca",
+    "storage_bucket": "kothopokothon-e7bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989936298324:android:e879e9440e817e9aec80c1",
+        "android_client_info": {
+          "package_name": "com.cse21.kothopokothon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vK5sE2688rqLZNavY9GZ0rWqUIbVXGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
